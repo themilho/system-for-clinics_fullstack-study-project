@@ -1,7 +1,9 @@
-export default function home () {
+import { Header } from "./_components/header";
+
+export default function Home () {
   return(
     <div>
-      <h1>Página HOME</h1>
+      <Header/>
     </div>
   )
 }

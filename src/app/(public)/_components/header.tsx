@@ -5,7 +5,7 @@ export function Header() {
         <header
             className="fixed top-0 right-0 left-0 z-[999]"
         >
-            <div className="container mx-auto flex items-center justify-between">
+            <div className="container flex items-center justify-between">
                 <Link href="/">
                     OdontoPRO
                 </Link>
